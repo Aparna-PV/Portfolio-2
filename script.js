@@ -5,7 +5,7 @@ function toggleMenu() {
   icon.classList.toggle("open");
 }
 
-$("#contactForm").submit(function(e) {
+$("#contactForm").submit(function(e) { 
     // 1. Prevent the form from submitting the default way
     e.preventDefault();
 
