@@ -400,17 +400,17 @@ article .icon {
 }
 
 .certifications-container {
-    display: flex; /* Arrange items in a row */
-    flex-wrap: wrap; /* Allow items to wrap to the next line */
-    justify-content: center; /* Center items horizontally */
-    gap: 30px; /* Space between items */
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center;
+    gap: 30px; 
 }
 
 /* Styling for the individual rounded square item */
 .certification-item {
-    background-color: #ffffff; /* White background */
-    border: 1px solid #ddd; /* Light gray border */
-    border-radius: 15px; /* **Rounded corners for the 'square'** */
+    background-color: #ffffff; 
+    border: 1px solid #ddd;
+    border-radius: 15px; 
     padding: 20px;
     width: 250px; /* Fixed width */
     height: 250px; /* **Fixed height (making it a square)** */
